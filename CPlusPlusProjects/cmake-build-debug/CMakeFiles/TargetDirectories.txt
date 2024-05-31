@@ -1,0 +1,5 @@
+E:/6-й семестр/CPlusPlusProjects/cmake-build-debug/CMakeFiles/CPlusPlusProjects.dir
+E:/6-й семестр/CPlusPlusProjects/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/6-й семестр/CPlusPlusProjects/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+E:/6-й семестр/CPlusPlusProjects/cmake-build-debug/CMakeFiles/CPlusPlusProjects_autogen_timestamp_deps.dir
+E:/6-й семестр/CPlusPlusProjects/cmake-build-debug/CMakeFiles/CPlusPlusProjects_autogen.dir

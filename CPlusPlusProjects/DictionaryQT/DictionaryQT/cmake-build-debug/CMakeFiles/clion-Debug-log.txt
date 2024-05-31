@@ -1,0 +1,1 @@
+CMakeLists.txt not found in E:\6-й семестр\CPlusPlusProjects\DictionaryQT Select CMakeLists.txt
